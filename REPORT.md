@@ -2,9 +2,9 @@ Project Overview
 
 This project is a React-based form application that:
 
-Collects user data (name, email, address, phone).
-Saves the collected data in local storage.
-Uses Chakra UI for styling.
+1)Collects user data (name, email, address, phone).
+2)Saves the collected data in local storage.
+3)Uses Chakra UI for styling.
 
 Component Structure
 
@@ -39,5 +39,5 @@ Component Structure
 
 State Management:
 
-Uses React's useState to manage form input.
-Uses useEffect to load data from local storage.
+1)Uses React's useState to manage form input.
+2)Uses useEffect to load data from local storage.
